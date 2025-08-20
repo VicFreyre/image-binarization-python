@@ -1,6 +1,6 @@
 import cv2
 
-caminho = r"C:\Users\ruvic\Desktop\ml\orchid.jpg"
+caminho = r"C:\Users\ruvic\Desktop\ml\orchid.jpg" #troque o caminho para a imagem que desejar usar
 
 img_colorida = cv2.imread(caminho)
 
